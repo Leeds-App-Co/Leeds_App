@@ -1,0 +1,35 @@
+
+Project:
+  Leeds App designed to improve the current app
+  Proposed implementations:
+    Must Do's:
+      Notifications @critical
+      Student ID @critical
+      NFC Checking-In @high
+    Could Do's:
+      Social Tabbing for Messaging @low
+      BeReal Style Photo Prompt @low
+      Updated Campus Map @low
+
+
+
+
+Todo: 
+  ☐ Turn Personas into .md file and add to resources/personas
+  ☐ Set up sprints on project board
+  ☐ Writing down Lite test for the app to test the MUST DO's aspect of the app
+
+
+Notifications:
+  ☐ Can display notifications @critical
+  ☐ Notifications should be triggered via lecture changes @high
+  ☐ Notifications should be triggered at a set time before lesson starts. Set time of 15 minutes @high
+  ☐ Notifications should be trigegred when a student hasn't checked in into a lesson after a set time @low
+  ☐ Notifications should be triggered during university announcements @low
+
+Student ID:
+  ☐ Student ID should be accessible on the App @high
+  ☐ Student ID should be able to be added to the wallet app on users phone @low
+
+NFC Checkin-In:
+  ☐ Students should be able to check in using their phones
